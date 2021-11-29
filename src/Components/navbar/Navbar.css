@@ -1,0 +1,9 @@
+.navbar-div{
+    text-decoration: none;
+    text-align: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    /* padding-bottom: 0px; */
+    background-color: whitesmoke;
+}
